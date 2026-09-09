@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=180&section=header&text=Priyanshu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Training%20%26%20Full%20Stack%20Architect&descFontSize=18&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=180&section=header&text=Priyanshu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20%26%20Mobile%20Architect&descFontSize=18&descAlignY=58" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=AI+Engineer+%26+Full-Stack+Developer;Training+%26+Fine-Tuning+Custom+LLMs;PyTorch+%7C+Hugging+Face+%7C+Transformers;Building+Autonomous+AI+Agents+%26+RAG;Creator+of+Moonlight+AI+%F0%9F%8C%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=AI+Engineer+%26+Full-Stack+Developer;Building+%26+Training+Custom+LLMs;Moonlight+Android+App+%7C+Flutter+%26+Supabase+%F0%9F%93%B1;Next.js+%7C+TypeScript+%7C+PyTorch+%7C+Tailwind;Crafting+High-Performance+Intelligent+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,21 +17,38 @@
 ### 👨‍💻 About Me
 
 - 🧠 **LLM & Generative AI:** Deeply interested in LLM pre-training, fine-tuning (LoRA, QLoRA, SFT, DPO), tokenizer architectures, and domain-adapted foundation models.
-- 🚀 **AI Engineering:** Building the end-to-end bridge between foundational models and production apps—from dataset curation and quantization to low-latency inference pipelines and AI agents.
-- 🌙 **Creator of [Moonlight AI](https://moonlight-ai.pages.dev):** Modern AI productivity suite built with Next.js, Cloudflare Pages, and high-performance frontend architecture.
-- 🔬 **Exploring:** Efficient training paradigms, model quantization (GGUF, AWQ), synthetic dataset generation, and high-throughput inference (vLLM, Ollama).
-- 💬 **Collaborations:** Always excited to connect and collaborate on LLM training pipelines, open-weights models, and innovative AI web platforms!
+- 📱 **Mobile Development:** Building native-feel, high-performance Android applications using Flutter and Dart with reactive state management and realtime backends.
+- 🌙 **Creator of the Moonlight Ecosystem:**
+  - **Moonlight AI Web:** A high-speed web platform deployed globally on Cloudflare Pages.
+  - **Moonlight App for Android:** A premium visual social platform built with Flutter and Supabase.
+- 🚀 **Full-Stack & Cloud:** End-to-end architectures across Next.js (App Router), TypeScript, Python, PyTorch, Supabase, and Cloudflare edge networks.
+- 💬 **Collaborations:** Always excited to connect on LLM training pipelines, open-weights models, Android apps, and web platforms!
 
 ---
 
-### 🌟 Featured Project
+### 🌟 Featured Projects
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="50%" valign="top">
+      <h3 align="left">📱 <a href="https://github.com/Priyanshu459/moonlight_soical_App">Moonlight App (Android)</a></h3>
+      <p align="left">
+        A production-ready, premium visual social platform built with Flutter, Dart, and Supabase. Features reactive state management, real-time feeds, and fluid mobile UI interactions.
+      </p>
+      <p align="left">
+        <a href="https://github.com/Priyanshu459/moonlight_soical_App"><b>Repository 💻</b></a>
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="left">🌙 <a href="https://github.com/Priyanshu459/Moonlight_web">Moonlight AI Web</a></h3>
       <p align="left">
-        A next-generation AI productivity suite built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. Deployed globally on Cloudflare Pages with zero-latency edge delivery.
+        Next-generation AI productivity suite built with Next.js, TypeScript, and Tailwind CSS. Deployed globally on Cloudflare Pages with zero-latency edge delivery.
       </p>
       <p align="left">
         <a href="https://moonlight-ai.pages.dev"><b>Live Demo 🚀</b></a> &nbsp;•&nbsp; 
@@ -63,6 +80,13 @@
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases" />
 </p>
 
+#### 📱 Mobile App Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
 #### 💻 Full-Stack & Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -73,8 +97,9 @@
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-#### ☁️ Cloud, Deployment & DevOps
+#### ☁️ Backend, Database & Cloud
 <p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
